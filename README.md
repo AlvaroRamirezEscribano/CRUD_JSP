@@ -8,31 +8,31 @@ Marca
 Modelo
 Precio
 
-![alt text](fotos/foto1.png "CRUD")
+![alt text](fotos/fotos1.png "CRUD")
 
 -------------------------------------------------------------------
 
 Añadiendo una nueva tarjeta a la tabla
 
-![alt text](fotos/foto2.png "Añadiendo tarjeta nueva")
+![alt text](fotos/fotos2.png "Añadiendo tarjeta nueva")
 
 -------------------------------------------------------------------
 
-![alt text](fotos/foto3.png "Mostrando nueva tarjeta")
+![alt text](fotos/fotos3.png "Mostrando nueva tarjeta")
 
 -------------------------------------------------------------------
 
 Modificando la nueva tarjeta
 
-![alt text](fotos/foto4.png "Modificando")
+![alt text](fotos/fotos4.png "Modificando")
 
 -------------------------------------------------------------------
 
-![alt text](fotos/foto5.png "Mostrando")
+![alt text](fotos/fotos5.png "Mostrando")
 
 -------------------------------------------------------------------
 
 Eliminando la nueva tarjeta
 
-![alt text](fotos/foto6.png "Eliminando")
+![alt text](fotos/fotos6.png "Eliminando")
 
